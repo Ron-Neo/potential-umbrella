@@ -1,3 +1,4 @@
+// file deepcode ignore UsageOfUndefinedReturnValue: <comment the reason here>
 /*!
  * Project : simply-countdown
  * File : simplyCountdown
